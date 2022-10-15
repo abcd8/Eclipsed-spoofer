@@ -10,7 +10,6 @@ Eclipse is a kernel based spoofer. Works for most games, ex: fortnite,Call of du
 
                                                     ECLIPSE IS A LOADER TOO!
                                                     
-                                                    Expect updates in the future
 
 If you have any problems join the discord:
 https://discord.io/Eclipsedspoofer
