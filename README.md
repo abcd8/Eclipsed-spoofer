@@ -13,6 +13,8 @@ Eclipse is a kernel based spoofer. Works for most games, ex: fortnite,Call of du
 
 If you have any problems join the [discord](https://discord.io/Eclipsedspoofer)
 
+https://tenor.com/view/cat-the-cat-he-dance-he-dance-gif-24077288
+
 
 ![image](https://user-images.githubusercontent.com/114242816/196004120-4b7a224b-de03-43e9-a502-b4360b9be902.png)
 ![image](https://user-images.githubusercontent.com/114242816/196004131-dfd61a1f-916e-452f-8c19-cf00d797738c.png)
