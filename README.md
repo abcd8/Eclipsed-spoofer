@@ -15,7 +15,7 @@ If you have any problems join the [discord](https://discord.io/Eclipsedspoofer)
 
 Dont try to crack it!
 
-<img src="https://media.tenor.com/d26kkRj_FvQAAAAd/angry-cat.gif" width="600" height="300" />
+<img src="https://media.tenor.com/d26kkRj_FvQAAAAd/angry-cat.gif" width="350" height="300" />
 
 ![image](https://user-images.githubusercontent.com/114242816/196004120-4b7a224b-de03-43e9-a502-b4360b9be902.png)
 ![image](https://user-images.githubusercontent.com/114242816/196004131-dfd61a1f-916e-452f-8c19-cf00d797738c.png)
