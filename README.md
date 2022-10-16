@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxsamplexx&label=Profile%20views&color=0e75b6&style=flat" alt="xxsamplexx" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">DISCORD</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/GKpuaRan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/GKpuaRan" height="30" width="40" /></a>
 </p>
