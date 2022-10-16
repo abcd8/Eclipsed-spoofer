@@ -7,7 +7,7 @@
   Eclipse is a spoofer. Works on valo, fortnite etc...
   
   ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/KDrTDnnXw9) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](KDrTDnnXw9) 
                                    
                                    
                                    
