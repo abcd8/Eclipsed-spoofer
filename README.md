@@ -6,7 +6,7 @@
                                                      WELCOME TO ECLIPSE
                                                                   
                                                                   
-Eclipse is a kernel based spoofer. Works for most games, ex: fortnite,Call of duty: warzone , modern warefare, apex legends, and so on...   
+Eclipse is a kernel based spoofer. Works for most games, ex: fortnite,Call of duty: warzone , modern warefare, apex legends, (maybe valorant) and so on...   
 
                                                     ECLIPSE IS A LOADER TOO!
                                                     
