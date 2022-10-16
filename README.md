@@ -1,12 +1,25 @@
-<h1 align="center">Eclipse spoofer Eclipse</h1>
-<h3 align="center">spoofer for most games: Fortnite,apex legends, valo.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xxsamplexx&label=Profile%20views&color=0e75b6&style=flat" alt="xxsamplexx" /> </p>
+                                                          Welcome to ECLIPSE
+       
+                                   Eclipse is a spoofer. Works on valo, fortnite etc...
+                                   
+                                   
+                                   
+                                   
+   ![image](https://user-images.githubusercontent.com/114242816/196027958-920e3b1c-f781-450f-a4e0-0b34975c18b4.png)
+![image](https://user-images.githubusercontent.com/114242816/196027965-323e0344-9eba-4ebf-a0f0-cebb47b31fa0.png)
 
-<h3 align="left">DISCORD</h3>
-<p align="left">
-<a href="https://discord.gg/https://discord.gg/GKpuaRan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/GKpuaRan" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/KDrTDnnXw9) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abcd8&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abcd8&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abcd8&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=abcd8&icon=0&color=0)](https://visitcount.itsvg.in)
