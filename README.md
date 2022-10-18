@@ -1,5 +1,5 @@
 
-                                    Welcome to ECLIPSE Spoofer
+                                                 Welcome to ECLIPSE Spoofer
                                         
                                         
                                         
