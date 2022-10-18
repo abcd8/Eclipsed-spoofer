@@ -1,10 +1,10 @@
 
-                                        Welcome to ECLIPSE
+                                    Welcome to ECLIPSE Spoofer
                                         
                                         
                                         
        
-  Eclipse is a spoofer. Works on valo, fortnite etc...
+           
   
   ## 🌐 Socials:
 [![Discord](https://discord.gg/KDrTDnnXw9)](https://discord.gg/KDrTDnnXw9) 
